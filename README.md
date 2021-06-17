@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nino-a2
-- 👀 I’m interested in the Cloud, DevOps, and Security
+- 👀 I’m interested in the cloud, DevOps, and security
   - ☁️ AWS and Azure
-  - 🚀 Container orchestration, configuration management
+  - 🚀 Automation, container orchestration, configuration management
 - 🌱 I’m currently learning container orchestration with Kubernetes, Helm, Istio
 
 <!---
