@@ -6,4 +6,4 @@
 
 ## Recent posts on Medium
 A practical introduction to Kubernetes Persistent Volumes and Init Containers:\
-https://nzorn.medium.com/a-practical-introduction-to-kubernetes-persistent-volumes-and-init-containers-209d9ef81d1d
+https://medium.com/geekculture/a-practical-introduction-to-kubernetes-persistent-volumes-and-init-containers-209d9ef81d1d
